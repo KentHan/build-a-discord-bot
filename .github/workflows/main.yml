@@ -1,0 +1,4 @@
+uses: kanadgupta/glitch-sync@main
+with:
+  project-id: '${{ secrets.projectId }}'
+  auth-token: '${{ secrets.authToken }}'
